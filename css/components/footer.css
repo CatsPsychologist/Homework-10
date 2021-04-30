@@ -1,0 +1,23 @@
+footer{
+    background-color: rgb(241, 241, 241);
+}
+
+footer .footer-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer .footer-wrapper p{
+    color: rgb(177, 177, 177);
+}
+footer .footer-wrapper nav{
+    list-style: none;   
+    display: flex; 
+}
+footer .footer-wrapper li {  
+    padding: 35px 15px;
+   
+}
+footer .footer-wrapper li a{
+    text-decoration: none;
+}

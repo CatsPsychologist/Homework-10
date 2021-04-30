@@ -1,0 +1,32 @@
+
+.body-wrapper .privacy-state p:first-child{
+    font-size: xx-large;
+}
+.body-wrapper p{
+    margin: 20px 0;
+    font-size: larger;
+}
+
+.body-wrapper  p:not(:first-child){
+    display: inline-block;
+}
+.body-wrapper .privacy-state p:nth-child(3){
+    font-weight: 900;
+
+}
+
+.body-wrapper .short-version p:first-child{
+    font-size: x-large;
+    color: rgb(51, 97, 119);
+    margin: 0;
+}
+.body-wrapper .short-version hr{
+    margin: 0;
+}   
+
+.body-wrapper .short-version a{
+    text-decoration: none;
+}
+.body-wrapper .short-version{
+    margin: 50px 0;
+}
